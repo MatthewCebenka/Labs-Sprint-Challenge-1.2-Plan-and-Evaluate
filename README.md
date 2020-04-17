@@ -23,6 +23,10 @@ Please submit your response to your `Google Drive` folder you created in your du
 Please respond to the following prompts to demonstrate your understanding of these release canvas planning sessions.
 
 - **For data scientists and engineers:** Describe the features in your first release canvas. How do the features in your first release canvas support one another? How will the completion of the first release canvas help drive the technological decisions moving forward?
+- Users are presented with hard to understand/duplicate filtering options that are difficult to navigate.
+- It is confusing for users that when they select a different graphical displays the page needs to be refreshed to show the requested graph.
+- Users spend large amounts of time trying to analyze market trends over time that is valuable market trend information for research.
+Using the graph of market data over time as well as clear filtering options saves users at least an hour of having to collect and analyze the data themselves when doing research. 
 - **For UX designers:** Describe how the user research you conducted influenced the features your team will build.
 
 ### Prompt 2: Breakdown Entry
@@ -30,8 +34,11 @@ Please respond to the following prompts to demonstrate your understanding of the
 Describe the breakdown process of your first release canvas. Please add a link to your first release canvas in notion.
 
 - **For non-UX students:** Summarize what you included in your first release canvas and why the features in that release canvas create a complete feature set.
+https://www.notion.so/v4-0-Release-Canvas-1-Line-Graph-b1befe2efb264c398bbdefb80be0d5b6
+- Give users the ability to see data displayed overtime clearly.
+- Give users the ability to transition between graphs and bar charts with the same data series seamlessly
     - How will you test those features to know that they actually solve the problem?
-
+We know that the newly implemented features will improve the user experience because they currently don't exist and will greatly improve the specificity of data requested by the user. 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
 ## Submitting your work
